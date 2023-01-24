@@ -5,7 +5,7 @@ const reviews = [
         id: 1,
         name: "anna smith",
         job : "developer",
-        img : ("../image/human-g71060ff92_1920.jpg"),
+        img : ("./image/human-g71060ff92_1920.jpg"),
         text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quo saepe quos harum est dolor autem atque! Perferendis nulla dolore adipisci necessitatibus, consequuntur molestiae rerum ipsam, nemo obcaecati quibusdam praesentium velit corporis beatae, voluptatum vero impedit aliquid doloremque deleniti atque ex ipsa saepe ullam?",
     },
      
@@ -13,21 +13,21 @@ const reviews = [
         id : 2,
         name : "peter johnson",
         job: "UI designer",
-        img: ("../image/beard-g5cd3f5e1b_1920.jpg"),
+        img: ("./image/beard-g5cd3f5e1b_1920.jpg"),
         text:"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quo saepe quos harum est dolor autem atque! Perferendis nulla dolore adipisci necessitatibus, consequuntur molestiae rerum ipsam, nemo obcaecati quibusdam praesentium velit corporis beatae, voluptatum vero impedit aliquid doloremque deleniti atque ex ipsa saepe ullam? Quidem nulla quos inventore minima tenetur minus animi voluptatum enim omnis ea magni excepturi, eveniet nesciunt doloremque sunt, debitis aspernatur ratione! Cum consequatur recusandae a rerum quo fuga facere id ratione doloremque.Quidem nulla quos inventore minima tenetur minus animi voluptatum enim omnis ea magni excepturi, eveniet nesciunt doloremque sunt, debitis aspernatur ratione! Cum consequatur recusandae a rerum quo fuga facere id ratione doloremque.",
     },
     {
         id:3,
         name:"susan anderson",
         job: "intern",
-        img: ("../image/adult-g421cb9cb9_1920.jpg"),
+        img: ("./image/adult-g421cb9cb9_1920.jpg"),
         text:"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quo saepe quos harum est dolor autem atque! Perferendis nulla dolore adipisci necessitatibus, consequuntur molestiae rerum ipsam, nemo obcaecati quibusdam praesentium velit corporis beatae, voluptatum vero impedit aliquid doloremque.",
     },
     {
         id:4,
         name: "bill turhed",
         job: "web developer",
-        img:("../image/attractive-g23bc633d4_1920.jpg"),
+        img:("./image/attractive-g23bc633d4_1920.jpg"),
         text:"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quo saepe quos harum est dolor autem atque! Perferendis nulla dolore adipisci necessitatibus, consequuntur molestiae rerum ipsam, nemo obcaecati quibusdam praesentium velit corporis beatae, voluptatum vero impedit aliquid doloremque deleniti atque ex ipsa saepe ullam? Quidem nulla quos inventore minima tenetur minus animi voluptatum enim omnis ea magni excepturi, eveniet nesciunt doloremque sunt, debitis aspernatur ratione! Cum consequatur recusandae a rerum quo fuga facere id ratione doloremque.Quidem nulla quos inventore minima tenetur minus animi voluptatum enim omnis ea magni excepturi, eveniet nesciunt doloremque sunt, debitis aspernatur ratione! Cum consequatur recusandae a rerum quo fuga facere id ratione doloremque.",
     },
    
